@@ -1,0 +1,50 @@
+body {
+   font-family: sans-serif, 'poppins';
+   margin: 0%;
+}
+
+h1 {
+   font-size: 50px;
+}
+
+h2 {
+   font-size: 40px;
+}
+
+section {
+   display: flex;
+}
+
+.orange-colour {
+   color: orange;
+}
+
+.skip-diet {
+
+   background-image: url(eat-healthy-main/images/shapes/Frame\ 58.jpg);
+   background-repeat: no-repeat;
+   margin: 0px;
+
+}
+
+
+
+.half-width {
+   width: 40%;
+   padding-left: 2%;
+}
+
+.half-width img {
+   width: 100%;
+}
+
+.for-button {
+   text-decoration: none;
+   padding: 10px 40px;
+   border-radius: 10px;
+   color: white;
+   background-image: linear-gradient(orange, tomato);
+   font-weight: 700;
+
+
+}
